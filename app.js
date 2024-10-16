@@ -1,5 +1,6 @@
 // Chapter (Arrays)
 
+
 // Q1
 
 var studentNames = [];
@@ -37,7 +38,10 @@ var qualifications = ["SSC <br/>", "HSC <br/>" , "BCS <br/>" ,
 
 
 
+
+
 // Chapter No 15 (Array 1)
+
 
 // Q1
 
@@ -66,7 +70,10 @@ alert(myArray[1]);
 
 
 
+
+
 // Chapter No 16 (Array 11)
+
 
 // Q1
 
@@ -88,7 +95,10 @@ console.log(Alphabet);
 
 
 
+
+
 // Chapter No 16 (Array 111)
+
 
 // Q1
 
